@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application Health Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        .up {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .down {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <h1>Application Health Checker</h1>
+    <button onclick="checkHealth()">Check Application Health</button>
+    <div id="status" class="status"></div>
+
+    <script>
+        function checkHealth() {
+            fetch('/api/health')
+                .then(response => response.json())
+                .then(data => {
+                    const statusDiv = document.getElementById('status');
+                    if (data.status === 'up') {
+                        statusDiv.innerText = 'Application is up and running.';
+                        statusDiv.className = 'status up';
+                    } else {
+                        statusDiv.innerText = `Application is down. Status code: ${data.status_code || ''} ${data.error || ''}`;
+                        statusDiv.className = 'status down';
+                    }
+                })
+                .catch(error => {
+                    const statusDiv = document.getElementById('status');
+                    statusDiv.innerText = `Error: ${error}`;
+                    statusDiv.className = 'status down';
+                });
+        }
+    </script>
+</body>`
+</html>

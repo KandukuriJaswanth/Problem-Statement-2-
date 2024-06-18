@@ -1,0 +1,43 @@
+2024-06-17 20:03:31,262 - High number of running processes detected: 351
+2024-06-17 20:31:40,322 -  * Debugger is active!
+2024-06-17 20:31:40,325 -  * Debugger PIN: 582-335-063
+2024-06-17 20:31:40,528 -  * Debugger is active!
+2024-06-17 20:31:40,530 -  * Debugger PIN: 582-335-063
+2024-06-17 20:32:04,986 - 127.0.0.1 - - [17/Jun/2024 20:32:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-17 20:32:05,257 - 127.0.0.1 - - [17/Jun/2024 20:32:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-17 20:32:05,258 - 127.0.0.1 - - [17/Jun/2024 20:32:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-17 20:32:05,295 - 127.0.0.1 - - [17/Jun/2024 20:32:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-17 20:32:40,463 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:32:40,680 -  * Detected change in 'D:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:32:41,104 -  * Debugger is active!
+2024-06-17 20:32:41,112 -  * Debugger PIN: 582-335-063
+2024-06-17 20:32:41,237 -  * Debugger is active!
+2024-06-17 20:32:41,240 -  * Debugger PIN: 582-335-063
+2024-06-17 20:32:43,134 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:32:43,256 -  * Detected change in 'D:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:32:43,733 -  * Debugger is active!
+2024-06-17 20:32:43,737 -  * Debugger PIN: 582-335-063
+2024-06-17 20:32:43,815 -  * Debugger is active!
+2024-06-17 20:32:43,818 -  * Debugger PIN: 582-335-063
+2024-06-17 20:32:53,115 - 127.0.0.1 - - [17/Jun/2024 20:32:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-17 20:32:53,279 - 127.0.0.1 - - [17/Jun/2024 20:32:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-17 20:32:53,280 - 127.0.0.1 - - [17/Jun/2024 20:32:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-17 20:32:53,294 - 127.0.0.1 - - [17/Jun/2024 20:32:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-17 20:33:11,818 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:33:11,900 -  * Detected change in 'D:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:33:12,425 -  * Debugger is active!
+2024-06-17 20:33:12,431 -  * Debugger PIN: 582-335-063
+2024-06-17 20:33:12,512 -  * Debugger is active!
+2024-06-17 20:33:12,516 -  * Debugger PIN: 582-335-063
+2024-06-17 20:33:18,471 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:33:18,558 -  * Detected change in 'D:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:33:19,124 -  * Debugger is active!
+2024-06-17 20:33:19,129 -  * Debugger PIN: 582-335-063
+2024-06-17 20:33:19,154 -  * Debugger is active!
+2024-06-17 20:33:19,158 -  * Debugger PIN: 582-335-063
+2024-06-17 20:34:54,991 - 127.0.0.1 - - [17/Jun/2024 20:34:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-17 20:34:55,156 - 127.0.0.1 - - [17/Jun/2024 20:34:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-17 20:34:55,157 - 127.0.0.1 - - [17/Jun/2024 20:34:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-17 20:34:55,176 - 127.0.0.1 - - [17/Jun/2024 20:34:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-17 20:41:48,320 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:41:48,614 -  * Detected change in 'D:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading

@@ -1,0 +1,111 @@
+2024-06-17 20:05:01,054 - Application is down. Error: HTTPConnectionPool(host='your_application_url_here', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000019A09E32CC0>: Failed to resolve 'your_application_url_here' ([Errno 11001] getaddrinfo failed)"))
+2024-06-17 20:41:50,038 -  * Debugger is active!
+2024-06-17 20:41:50,043 -  * Debugger PIN: 582-335-063
+2024-06-17 20:41:50,155 -  * Debugger is active!
+2024-06-17 20:41:50,161 -  * Debugger PIN: 582-335-063
+2024-06-17 20:42:50,784 - 127.0.0.1 - - [17/Jun/2024 20:42:50] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 20:42:50,872 - 127.0.0.1 - - [17/Jun/2024 20:42:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-17 20:42:59,830 - 127.0.0.1 - - [17/Jun/2024 20:42:59] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 20:45:57,577 - 127.0.0.1 - - [17/Jun/2024 20:45:57] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 20:47:11,999 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:47:12,835 -  * Debugger is active!
+2024-06-17 20:47:12,838 -  * Debugger PIN: 582-335-063
+2024-06-17 20:47:17,088 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-17 20:47:17,088 - [33mPress CTRL+C to quit[0m
+2024-06-17 20:47:17,090 -  * Restarting with stat
+2024-06-17 20:47:17,771 -  * Debugger is active!
+2024-06-17 20:47:17,773 -  * Debugger PIN: 278-415-087
+2024-06-17 20:47:32,368 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-17 20:47:32,368 - [33mPress CTRL+C to quit[0m
+2024-06-17 20:47:32,370 -  * Restarting with stat
+2024-06-17 20:47:33,127 -  * Debugger is active!
+2024-06-17 20:47:33,131 -  * Debugger PIN: 278-415-087
+2024-06-17 20:50:03,268 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:03,323 -  * Restarting with stat
+2024-06-17 20:50:03,366 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:03,582 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:03,680 -  * Restarting with stat
+2024-06-17 20:50:04,965 -  * Debugger is active!
+2024-06-17 20:50:04,971 -  * Debugger PIN: 278-415-087
+2024-06-17 20:50:05,075 -  * Debugger is active!
+2024-06-17 20:50:05,079 -  * Debugger PIN: 582-335-063
+2024-06-17 20:50:05,413 -  * Debugger is active!
+2024-06-17 20:50:05,416 -  * Debugger PIN: 278-415-087
+2024-06-17 20:50:27,062 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:27,126 -  * Restarting with stat
+2024-06-17 20:50:27,157 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:27,514 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:50:27,623 -  * Restarting with stat
+2024-06-17 20:50:28,807 -  * Debugger is active!
+2024-06-17 20:50:28,812 -  * Debugger PIN: 278-415-087
+2024-06-17 20:50:28,996 -  * Debugger is active!
+2024-06-17 20:50:29,001 -  * Debugger PIN: 582-335-063
+2024-06-17 20:50:29,220 -  * Debugger is active!
+2024-06-17 20:50:29,222 -  * Debugger PIN: 278-415-087
+2024-06-17 20:53:12,292 - 127.0.0.1 - - [17/Jun/2024 20:53:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-17 20:53:12,501 - 127.0.0.1 - - [17/Jun/2024 20:53:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-17 20:53:12,502 - 127.0.0.1 - - [17/Jun/2024 20:53:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-17 20:53:12,512 - 127.0.0.1 - - [17/Jun/2024 20:53:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-17 20:53:12,515 - 127.0.0.1 - - [17/Jun/2024 20:53:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-17 20:54:04,546 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-17 20:54:04,546 - [33mPress CTRL+C to quit[0m
+2024-06-17 20:54:04,548 -  * Restarting with stat
+2024-06-17 20:54:05,203 -  * Debugger is active!
+2024-06-17 20:54:05,205 -  * Debugger PIN: 278-415-087
+2024-06-17 20:55:00,043 - 127.0.0.1 - - [17/Jun/2024 20:55:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-17 20:57:08,646 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:08,730 -  * Restarting with stat
+2024-06-17 20:57:08,755 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:08,822 -  * Restarting with stat
+2024-06-17 20:57:09,097 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:09,192 -  * Restarting with stat
+2024-06-17 20:57:09,220 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:10,238 -  * Debugger is active!
+2024-06-17 20:57:10,242 -  * Debugger PIN: 278-415-087
+2024-06-17 20:57:10,290 -  * Debugger is active!
+2024-06-17 20:57:10,293 -  * Debugger PIN: 278-415-087
+2024-06-17 20:57:10,561 -  * Debugger is active!
+2024-06-17 20:57:10,564 -  * Debugger PIN: 278-415-087
+2024-06-17 20:57:10,599 -  * Debugger is active!
+2024-06-17 20:57:10,605 -  * Debugger PIN: 582-335-063
+2024-06-17 20:57:15,592 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:15,625 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:15,680 -  * Restarting with stat
+2024-06-17 20:57:16,270 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:16,318 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:57:16,354 -  * Restarting with stat
+2024-06-17 20:57:16,410 -  * Restarting with stat
+2024-06-17 20:57:16,807 -  * Debugger is active!
+2024-06-17 20:57:16,807 -  * Debugger is active!
+2024-06-17 20:57:16,811 -  * Debugger PIN: 582-335-063
+2024-06-17 20:57:16,811 -  * Debugger PIN: 278-415-087
+2024-06-17 20:57:17,549 -  * Debugger is active!
+2024-06-17 20:57:17,552 -  * Debugger PIN: 278-415-087
+2024-06-17 20:57:17,600 -  * Debugger is active!
+2024-06-17 20:57:17,602 -  * Debugger PIN: 278-415-087
+2024-06-17 20:59:35,236 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:59:35,244 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:59:35,331 -  * Restarting with stat
+2024-06-17 20:59:35,936 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:59:35,951 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-17 20:59:36,064 -  * Restarting with stat
+2024-06-17 20:59:36,082 -  * Restarting with stat
+2024-06-17 21:33:56,183 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-17 21:33:56,183 - [33mPress CTRL+C to quit[0m
+2024-06-17 21:33:56,185 -  * Restarting with stat
+2024-06-17 21:33:56,975 -  * Debugger is active!
+2024-06-17 21:33:56,978 -  * Debugger PIN: 582-335-063
+2024-06-18 12:02:08,741 -  * Detected change in 'd:\\B.TECH\\Mini  Project\\QA\\por\\po\\from flask import Flask, jsonify, render.py', reloading
+2024-06-18 12:02:08,800 -  * Restarting with stat
+2024-06-18 12:02:09,266 -  * Debugger is active!
+2024-06-18 12:02:09,269 -  * Debugger PIN: 582-335-063
+2024-06-18 12:02:17,315 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-18 12:02:17,315 - [33mPress CTRL+C to quit[0m
+2024-06-18 12:02:17,316 -  * Restarting with stat
+2024-06-18 12:02:17,601 -  * Debugger is active!
+2024-06-18 12:02:17,603 -  * Debugger PIN: 278-415-087
